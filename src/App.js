@@ -1,4 +1,4 @@
-import Home from "./Home";
+import Home from "./home/Home";
 import { BrowserRouter,Routes, Route } from "react-router-dom";
 import Projectone from "./one/Projectone";
 import Projectwo from "./two/Projectwo";
