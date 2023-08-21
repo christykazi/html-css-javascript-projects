@@ -10,6 +10,12 @@ const Home = () => {
         <h2>Html - Css - Javascript Projects</h2>
         <div className="navbar">
         <ul>
+        <li> <Link to="/facebook">Face Book</Link></li>
+        <li> <Link to="/linkedin">Linkedin</Link></li>
+        <li> <Link to="/youtube">Youtube</Link></li>
+        <li> <Link to="/netflix">Netflix</Link></li>
+        <li> <Link to="/airbnb">Airbnb</Link></li>
+        <br />
             <li> <Link to="/projectone">Project 1</Link></li>
            <li> <Link to="/projectwo"> Project 2</Link></li>
            <li> <Link to="/projecthree">Project 3</Link></li>
@@ -20,8 +26,8 @@ const Home = () => {
         <div className='content'>
         <h1>Welcome to my Abode </h1>
         <div>
-        <button type="button" ><span></span>WATCH OUT</button>
-            <button type="button"><span></span>CLICK PROJECT ABOVE</button>
+        <button type="button" ><span></span>CLICK  ALL</button>
+            <button type="button"><span></span>PROJECTS ABOVE</button>
         </div>
            
         </div>

@@ -4,6 +4,11 @@ import Projectone from "./one/Projectone";
 import Projectwo from "./two/Projectwo";
 import Projecthree from "./three/Projecthree";
 import Projectfour from "./four/Projectfour";
+import Facebook from "./facebook/Facebook";
+import Linkedin from "./linkedin/Linkedin";
+import Youtube from "./youtube/Youtube";
+import Netflix from "./netflix/Netflix";
+import Airbnb from "./airbnb/Airbnb";
 
 
 function App() {
@@ -16,6 +21,11 @@ function App() {
         <Route path="/projectwo" element = {<Projectwo/>}/>
         <Route path="/projecthree" element = {<Projecthree/>}/>
         <Route path="/projectfour" element = {<Projectfour/>}/>
+        <Route path="/facebook" element = {<Facebook/>}/>
+        <Route path="/linkedin" element = {<Linkedin/>}/>
+        <Route path="/youtube" element = {<Youtube/>}/>
+        <Route path="/netflix" element = {<Netflix/>}/>
+        <Route path="/airbnb" element = {<Airbnb/>}/>
       </Routes>
      </BrowserRouter>
 
