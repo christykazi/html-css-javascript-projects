@@ -10,7 +10,7 @@ const Home = () => {
         <h2>Html - Css - Javascript Projects</h2>
         <div className="navbar">
         <ul>
-        <li> <Link to="/facebook">Face Book</Link></li>
+        <li> <Link to="/facebook">FaceBook</Link></li>
         <li> <Link to="/linkedin">Linkedin</Link></li>
         <li> <Link to="/youtube">Youtube</Link></li>
         <li> <Link to="/netflix">Netflix</Link></li>
