@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className='banner'>
        
-        <h2>Html - Css - Javascript Projects</h2>
+        <h2 className='hea'> My Unique Projects</h2>
         <div className="navbar">
         <ul>
         <li> <Link to="/facebook">FaceBook</Link></li>

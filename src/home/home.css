@@ -10,6 +10,13 @@
     background-image: url(../images/homee.jpg);
    /*  background: url("https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb&w=600");  */
   }
+  .hea{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color:  #c79eb2;
+    font-style: italic;
+  }
   
   h2{
     display: flex;
