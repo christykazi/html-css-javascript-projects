@@ -19,7 +19,7 @@ const Home = () => {
             <li> <Link to="/projectone">Project 1</Link></li>
            <li> <Link to="/projectwo"> Project 2</Link></li>
            <li> <Link to="/projecthree">Project 3</Link></li>
-           <li>  <Link to="/projectfour">Project 4</Link></li>
+      
        
              
         </ul>
