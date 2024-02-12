@@ -26,7 +26,7 @@ const Projecthree = () => {
       <a href="" className='btn'>2023 collections</a>
       <h1>I always feel pretty</h1>
       <p>Feeling good is a good business. you are what you believe that you are.</p>
-<p>feeling </p
+
       <div className="arrow-icons">
         <img src={ARROW} alt="" />
         <img src={NEXT} alt="" />
@@ -40,6 +40,7 @@ const Projecthree = () => {
 <div className="div facebook">
   welcome
 </div>
+    </div>
     </div>
     </div>
   )
