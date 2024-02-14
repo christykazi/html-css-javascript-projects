@@ -19,7 +19,7 @@ const  Facebook = () => {
        
     <div> 
         <p className="lo"> Log in to Facebook</p>
-        <button className="button1" > Email address or phone number</button><br/>
+        <button id="button2" > Email address or phone number</button><br/>
         <button className="cup">Password</button>
     </div>
     <div className='gath'>
@@ -44,7 +44,7 @@ const  Facebook = () => {
     <h1 className="fa">facebook</h1>
    
     <p className="lo"> Log in to Facebook</p>
-    <button className="button1" > Email address or phone number</button> <br/> 
+    <button id="button1" > Email address or phone number</button> <br/> 
     <button className="cup">Password</button>
 </div>
 
