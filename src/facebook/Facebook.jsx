@@ -2,7 +2,7 @@ import React from 'react'
 import "./facebook.css"
 
 
-const Home = () => {
+const  Facebook = () => {
   return (
     <div className='all'>
     <div className="grouper">
@@ -64,4 +64,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Facebook
