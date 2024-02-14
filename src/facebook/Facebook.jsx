@@ -24,7 +24,7 @@ const  Facebook = () => {
     </div>
     <div className='gath'>
     
-        <button className="summit"> <a href="./start">Log in</a></button>
+        <button className="summitt"> <a href="./start">Log in</a></button>
         
         
         
@@ -49,7 +49,7 @@ const  Facebook = () => {
 </div>
 
 <div>
-<button className="summit"> <a href="./start">Log in</a></button>
+<button className="summitt"> <a href="./start">Log in</a></button>
     <p className="clos">Forgotten account?</p> 
     <div className='linee'></div>
     <p className="good">or</p>
