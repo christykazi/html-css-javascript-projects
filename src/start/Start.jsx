@@ -88,16 +88,15 @@ const StartCompontent = () => {
         <div className="shortcut-links">
           <p>Your Shortcuts</p>
           <a href="#"
-            ><img src="images/shortcut-1.png" /> Web Developers</a
-          >
+            ><img src="images/shortcut-1.png" /> Web Developers 
+            </a>
           <a href="#"
             ><img src="images/shortcut-2.png" />Web Design
-            </a
-          >
+            </a>
           <a href="#"
-            ><img src="images/shortcut-3.png" /> Full-Stack Web Developer 
-            </a
-          >
+            >
+            <img src="images/shortcut-3.png" /> Full-Stack Web Developer 
+            </a>
           <a href="#"
             ><img src="images/home.jpg" /> Website Experts </a>
         </div>
@@ -411,8 +410,8 @@ const StartCompontent = () => {
       <div className="footer">
       <p className="coy">&copy; Christiana project - 2023.</p>
     </div>
-    </div>
-    </div>
+    
+    
   )
 }
 
