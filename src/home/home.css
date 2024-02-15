@@ -44,12 +44,13 @@
     position: relative;
   
   }
-  a{
+  .aa{
     text-decoration: none;
-    color: #05bba6;
+    color: dodgerblue;
+    background: none;
     text-transform: uppercase;
-    font-size: 20px;
-    font-weight: 900;
+    font-size: 16px;
+    font-weight: 600;
   }
   .navbar ul li::after{
     content: '';
@@ -73,7 +74,7 @@
    transform: translateY(-50%);
   }
   
-  button{
+  .button4{
     width: 200px;
     text-align: center;
     padding: 15px 0;
@@ -98,9 +99,9 @@
   transition: 0.5s;
   }
   
-  button:hover span{
+  .button4:hover span{
     width: 100%;
   }
-  button:hover{
+  .button4:hover{
     border: none;
   }

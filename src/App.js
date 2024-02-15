@@ -9,6 +9,7 @@ import Linkedin from "./linkedin/Linkedin";
 import Youtube from "./youtube/Youtube";
 import Netflix from "./netflix/Netflix";
 import Airbnb from "./airbnb/Airbnb";
+import Start from "./start/Start";
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route path="/projecthree" element = {<Projecthree/>}/>
         <Route path="/projectfour" element = {<Projectfour/>}/>
         <Route path="/facebook" element = {<Facebook/>}/>
+        <Route path="/start" element = {<Start/>}/>
         <Route path="/linkedin" element = {<Linkedin/>}/>
         <Route path="/youtube" element = {<Youtube/>}/>
         <Route path="/netflix" element = {<Netflix/>}/>

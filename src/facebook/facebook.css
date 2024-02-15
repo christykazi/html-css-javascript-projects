@@ -76,7 +76,7 @@ div{
     display: block;
 }
 
-button1{
+.button1{
  padding-right: 64px;
  color: #454545;
  border-radius: 3px;
