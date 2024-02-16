@@ -1,8 +1,11 @@
 import React from 'react'
-import NOT1 from "/imagges/images/not"
+import NOT1 from "./imagges/images/n"
 
 const StartCompontent = () => {
   return (
+    <>
+
+    
           <div>
       <div className="nav-left">
         <a href="home.html">
@@ -12,7 +15,7 @@ const StartCompontent = () => {
        {/*  <!-- <a href="#"><TiSocialSkypeOutline/></a> -->
         <!-- <h3><SlSocialStumbleupon/></h3> --> */}
         <ul>
-          <li><img src={NOT1} alt="" /></li>
+          <li><img src={NOT1} alt="i" /></li>
           <li><img src="images/inbox.png" alt="" /></li>
           <li><img src="images/video.png" alt="" /></li>
         </ul>
@@ -341,10 +344,7 @@ const StartCompontent = () => {
         
 <button type="button" className="load-more-btn">Load More</button>
       </div>
-
-
-
-
+      </div>
 
     {/*   <!--  right side bar --> */}
       <div className="right-sidebar">
@@ -410,8 +410,10 @@ const StartCompontent = () => {
       <div className="footer">
       <p className="coy">&copy; Christiana project - 2023.</p>
     </div>
-    
-    
+    </div>
+    </div>
+    </div>
+    </>
   )
 }
 
