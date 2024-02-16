@@ -35,6 +35,7 @@ const StartCompontent = () => {
         </div>
         <div className="nav-user-icon online" onClick="settingMenuToggle()">
           <img src={CBAE} alt="" />
+          <img src="" alt="" />
         </div>
       </div>
     --  settings-menu -- 
