@@ -106,7 +106,7 @@ const StartCompontent = () => {
         <div className="story-gallery">
           <div className="story story1">
             <img src={UPLOAD} />
-            <p>Post Story</p>
+            <p className='ncc'>Post Story</p>
           </div>
           <div className="story story2">
             <img src={MEM3} />

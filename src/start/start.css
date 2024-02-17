@@ -135,6 +135,9 @@ right: 10px;
    background: #efefef;
    color: #626262;
 }
+.ncc{
+   background:none;
+}
 .right-sidebar{ 
     flex-basis: 25%;
     position: sticky;
