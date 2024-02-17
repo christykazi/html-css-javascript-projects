@@ -110,19 +110,19 @@ const StartCompontent = () => {
           </div>
           <div className="story story2">
             <img src={MEM3} />
-            <p>Uche princess</p>
+            <p className='ncc'>Uche princess</p>
           </div>
           <div className="story story3">
             <img src={MEM1}/>
-            <p>Onyeka Gift</p>
+            <p className='ncc'>Onyeka Gift</p>
           </div>
           <div className="story story4">
             <img src={MEM2} />
-            <p> Felis keth</p>
+            <p className='ncc'> Felis keth</p>
           </div>
           <div className="story story5">
             <img src={MEM4} />
-            <p>Peter Dan</p>
+            <p className='ncc'>Peter Dan</p>
           </div>
         </div>
         <div className="write-post-container">
