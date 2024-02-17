@@ -135,9 +135,7 @@ right: 10px;
    background: #efefef;
    color: #626262;
 }
-.ncc{
-   background:none;
-}
+
 .right-sidebar{ 
     flex-basis: 25%;
     position: sticky;
@@ -307,8 +305,9 @@ margin-bottom: 20px;
     width: 100%;
     text-align: center;
     color: #fff;
-    font-weight: 600;
-    font-size: 18px;
+    background: none;
+    font-weight: 400;
+    font-size: 14px;
  }
 /*  */
  .story1{

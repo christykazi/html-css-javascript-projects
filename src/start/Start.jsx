@@ -114,7 +114,7 @@ const StartCompontent = () => {
           </div>
           <div className="story story3">
             <img src={MEM1}/>
-            <p className='ncc'>Onyeka Gift</p>
+            <p className='ncc'>Agbai Christy</p>
           </div>
           <div className="story story4">
             <img src={MEM2} />
