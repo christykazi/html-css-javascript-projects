@@ -1,0 +1,45 @@
+/* --  settings-menu --  */
+/* <div className="settings-menu"> */
+    /* <div id="dark-btn" > */
+      /* <span> */
+/*  */
+      /* </span> */
+    /* </div> */
+/*  */
+/*  */
+    /* </div> */
+    /* <div className="settings-menu-inner">    */
+    /* <div className="user-profile"> */
+      /* <img src={CBAE} /> */
+      /* <div> */
+        /* <p>Agbai Christiana</p> */
+   /* <a href="profile.html">See your Profile</a> */
+      /* </div> */
+  /* </div> */
+  /* <hr/> */
+  /* <div className="user-profile"> */
+    /* <img src={FEEDBACK} /> */
+    /* <div> */
+      /* <p>Give Feedback </p> */
+ /* <a href="#">Help us to improve the new designs</a> */
+    /* </div>  */
+/* </div> */
+/* <hr/> */
+/* <div className="settings-links"> */
+  /* <img src={SETTING} className="settings-icon"/> */
+  /* <a href="#">Settings & Privacy <img src="images/arrow.png" width="10px" /> </a> */
+/* </div> */
+/* <div className="settings-links"> */
+  /* <img src={HELP} className="settings-icon"/> */
+  /* <a href="#">Help & Support<img src="images/arrow.png" width="10px" /> </a> */
+/* </div> */
+/* <div className="settings-links"> */
+  /* <img src={DISPLAY} className="settings-icon"/> */
+  /* <a href="#">Display & Accessibility <img src="images/arrow.png" width="10px" /> </a> */
+/* </div> */
+/* <div className="settings-links"> */
+  /* <img src={LOGOUT} className="settings-icon"/> */
+  /* <a href="#">Logout <img src="images/arrow.png" width="10px" /> </a> */
+/* </div> */
+/*  */
+/* </div> */
