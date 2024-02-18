@@ -354,6 +354,7 @@ const StartCompontent = () => {
   <div className="left-event">
     <h3>14<sup>th</sup></h3>
     <span>Sept</span>
+    <div>Dec</div>
     
   </div>
   <div className="right-event">
@@ -365,6 +366,7 @@ const StartCompontent = () => {
 <div className="event">
   <div className="left-event ccp">
     <h3 className='ccp'>22<sup className='ccp'>th</sup> </h3>
+    <div>June</div>
     <span>June</span>
     
   </div>
