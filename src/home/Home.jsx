@@ -24,7 +24,7 @@ const Home = () => {
        
              
         </ul>
-        <div className='content'>
+        <div className='contentt'>
         <h1>Welcome to my Abode </h1>
         <div>
         <button type="button" className='button4'><span></span>CLICK  ALL</button>

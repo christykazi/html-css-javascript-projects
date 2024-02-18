@@ -197,6 +197,17 @@ width: fit-content;
     font-size: 12px;
     background-color: white;
  }
+ .llft{
+   padding-right: 350px;
+   font-size: 14px;
+ }
+ .lgft{
+   padding-right: 250px;
+ }
+ .beln{
+   font-size: 20px;
+   background-color: #1876f2;
+ }
  .sidebar-title img{
    width: 20px;
    height: 20px;
@@ -238,7 +249,7 @@ color: #1876f2;
     color: #fff;
     font-size: 10px;
     padding: 4px 0;
- background-color: white;
+ 
  }
  .right-event{ 
    background-color: white;}
@@ -337,9 +348,10 @@ margin-bottom: 20px;
  }
  .write-post-container{
     width: 100%;
+
     background: var(--bg-color);
     border-radius: 6px;
-    padding: 20px;
+    padding: 10px;
     color: #626262;
     background: #fff;
  }
@@ -362,7 +374,7 @@ height: 40px;
  }
  .user-profile small{
     font-size: 15px;
-    background-color: white;
+    background: white;
  }
  /* .pivn{ */
     /* top: unset; */

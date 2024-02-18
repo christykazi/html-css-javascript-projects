@@ -1,5 +1,6 @@
 import React from 'react'
 import "./start.css"
+import { BiBell } from "react-icons/bi";
 import NOT1 from "../images/notification.png"
 import INBOX from "../images/inbox.png"
 import VIDEO from "../images/video.png"
@@ -125,16 +126,16 @@ const StartCompontent = () => {
             <p className='ncc'>Peter Dan</p>
           </div>
         </div>
-        <div className="write-post-container">
-          <div className="user-profile">
+        <div className="write-post-container ccp">
+          <div className="user-profile llft ccp">
             <img src={CBAE} />
-            <div>
+            <div className='ccp'>
               <p className='ccp'>Agbai Christiana</p>
               <small className='ccp'>Public</small>
             </div>
           </div>
           <div className="post-input-container">
-            <textarea rows="3" placeholder="What's on your Mind, Christiana?"></textarea>
+            <textarea className='lgft' rows="3" placeholder="What's on your Mind, Christiana?"></textarea>
             <div className="add-post-links">
               <a href="#" className='saa'><img src={LIVEV} />Live Video</a>
               <a href="#" className='saa'><img src={PHOTO} />Photo/Video</a>
@@ -357,20 +358,19 @@ const StartCompontent = () => {
   </div>
   <div className="right-event">
     <h4>frontend Developer</h4>
-    <p><box-icon type='solid' name='bell'></box-icon>Christiana Tech</p>
+    <p><BiBell className='beln ccp' />Christiana Tech</p>
     <a href="#" className='ssaa'>More info</a>
   </div>
 </div>
 <div className="event">
-  <div className="left-event">
-    <h3>22<sup>th</sup></h3>
+  <div className="left-event ccp">
+    <h3 className='ccp'>22<sup className='ccp'>th</sup> </h3>
     <span>June</span>
     
   </div>
   <div className="right-event">
-    <h4>Backend Developer</h4>
-    <box-icon type='solid' name='bell'></box-icon>
-    <p>Christiana Tech</p>
+    <h4>Backend Developer</h4> 
+    <p><BiBell className='beln ccp' /> Christiana Tech</p>
     <a href="#" className='ssaa'>More info</a>
   </div>
 </div>
