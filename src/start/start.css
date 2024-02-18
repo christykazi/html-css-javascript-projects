@@ -135,6 +135,10 @@ right: 10px;
    background: #efefef;
    color: #626262;
 }
+.ffaa{
+   
+   font-size: 20px;
+}
 
 .right-sidebar{ 
     flex-basis: 25%;

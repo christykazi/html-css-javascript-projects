@@ -1,6 +1,7 @@
 import React from 'react'
 import "./start.css"
 import { BiBell } from "react-icons/bi";
+import { BsFacebook } from "react-icons/bs";
 import NOT1 from "../images/notification.png"
 import INBOX from "../images/inbox.png"
 import VIDEO from "../images/video.png"
@@ -49,7 +50,7 @@ const StartCompontent = () => {
        <nav id='navvv'> 
       <div className="nav-left">
         <a href="home.html">
-        <p className="fi"> <box-icon type='logo' name='facebook-circle'></box-icon></p>
+        <p className="fi"> <BsFacebook className='ffaa' /></p>
       </a>
         <h1>FACEBOOK</h1>
        {/*  <!-- <a href="#"><TiSocialSkypeOutline/></a> -->
@@ -351,8 +352,8 @@ const StartCompontent = () => {
   <a href="#" className='ssaa'>See All</a>
 </div>
 <div className="event">
-  <div className="left-event">
-    <h3>14<sup>th</sup></h3>
+  <div className="left-event ccp">
+    <h3 className='ccp'>14<sup className='ccp'>th</sup></h3>
     <span>Sept</span>
     <div>Dec</div>
     
