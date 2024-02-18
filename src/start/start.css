@@ -32,11 +32,12 @@ body{
     position: sticky;
     top: 0;
     z-index: 100;
-   
+    
 }
-.nav-left .fi{
+ .fi{
     color: #1876f2;
 margin-left: 30px;
+background: #1876f2;
 }
 
 .nav-left{
@@ -45,9 +46,7 @@ margin-left: 30px;
        background: #1876f2; 
    
 }
-.box-icon{
-   background-color: #000;
-}
+
 .ull{
     background: #1876f2;
     
@@ -136,8 +135,8 @@ right: 10px;
    color: #626262;
 }
 .ffaa{
-   
    font-size: 20px;
+   background: #1876f2;
 }
 
 .right-sidebar{ 

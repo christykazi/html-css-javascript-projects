@@ -49,7 +49,7 @@ const StartCompontent = () => {
     
        <nav id='navvv'> 
       <div className="nav-left">
-        <a href="home.html">
+        <a href="./facebook" className='fi'>
         <p className="fi"> <BsFacebook className='ffaa' /></p>
       </a>
         <h1>FACEBOOK</h1>
