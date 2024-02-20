@@ -25,21 +25,19 @@ const Projecthree = () => {
     <div className="conten">
       <a href="" className='btn'>2023 collections</a>
       <h1>I always feel pretty</h1>
-      <p>Feeling good is a good business. you are what you believe that you are.</p>
-
+      <p>Feeling good is a good business. You are what</p><p>you believe that you are.</p>
       <div className="arrow-icons">
         <img src={ARROW} alt="" />
         <img src={NEXT} alt="" />
       </div>
     
-    <img src={GIRL} className='feature-img' />
+    <img  src={GIRL} className='feature-img' />
+
     <div className="social-link">
-      <a href="#" className='threea'>FACEBOOK</a>
+      <a className='threea' href="#">FACEBOOK</a>
       <a href="#" className='threea'>INSTAGRAM</a>
       <a href="#" className='threea'>TWITTER</a>
-<div className="div facebook">
-  welcome
-</div>
+
     </div>
     </div>
     </div>

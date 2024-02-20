@@ -41,6 +41,12 @@ nav ul li {
     text-decoration: none;
     text-transform: uppercase;
     color: #ff77cd;
+    background: none;
+  }
+  .feature-img {
+    /* Adjust the width to fit the container */
+    left: 75%;
+    height: auto;    /* Maintain the aspect ratio */
   }
 .conten h1{
     font-size: 60px;
@@ -48,6 +54,7 @@ nav ul li {
     margin-top: 24px;
     margin-bottom: 15px;
     color: #232d60;
+    position: relative;
 }
 
 .conten p{
@@ -56,7 +63,8 @@ nav ul li {
 }
 .conten{
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
+    position: relative;
 }
 .conten .btn{
     display: inline-block;
@@ -71,6 +79,7 @@ nav ul li {
 .arrow-icons{
 margin-top: 40px;
 display: flex;
+
 }
 .arrow-icons img{
 width: 40px;
