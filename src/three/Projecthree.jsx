@@ -13,11 +13,11 @@ const Projecthree = () => {
     <div className="navba">
       <img src={LOGO}  className='logo' alt='water'/>
       <nav>
-        <ul>
-          <li><a href="">Home</a></li>
-          <li><a href="">About</a></li>
-          <li><a href="">Collections</a></li>
-          <li><a href="">Category</a></li>
+        <ul className='threea'>
+          <li className='threea'><a href="" className='threea'>Home</a></li>
+          <li><a href="" className='threea'>About</a></li>
+          <li><a href="" className='threea'>Collections</a></li>
+          <li><a href="" className='threea'>Category</a></li>
         </ul>
       </nav>
       <img src={CARTT}  className='cart' alt='wat'/> 
@@ -34,9 +34,9 @@ const Projecthree = () => {
     
     <img src={GIRL} className='feature-img' />
     <div className="social-link">
-      <a href="">FACEBOOK</a>
-      <a href="">INSTAGRAM</a>
-      <a href="">TWITTER</a>
+      <a href="#" className='threea'>FACEBOOK</a>
+      <a href="#" className='threea'>INSTAGRAM</a>
+      <a href="#" className='threea'>TWITTER</a>
 <div className="div facebook">
   welcome
 </div>
